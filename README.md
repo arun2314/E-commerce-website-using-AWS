@@ -46,10 +46,4 @@ This project is an e-commerce website where users can browse products, add them 
 3. Fill in details and click "Place Order."
 4. Verify that the order is stored in **DynamoDB** automatically! 🎉
 
-### Additional Notes
-- Ensure **CORS settings** are enabled in API Gateway.
-- The IAM role should have sufficient permissions.
-- Debug errors using **CloudWatch Logs** in AWS.
-
-This setup enables a fully functional serverless e-commerce system using AWS services. 🚀
 
